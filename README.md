@@ -1,3 +1,6 @@
+
+![logo](images.png)
+
 # Sorting Algorithms
 
 This repository contains implementations of various sorting algorithms in C. Each sorting algorithm is implemented in a separate C file and is tested with example arrays or linked lists.
